@@ -5,12 +5,12 @@ Este repositório é referente à uma pesquisa e artigo realizada para a matéri
 
 👩🏻‍🎓 Os integrantes do grupo são:
 - Ana Paula Souza Leal
-- Bruno de Sousa Almeida
-- Jessica da Paixao Melo
+- [Bruno de Sousa Almeida](https://github.com/balmeida486)
+- [Jessica da Paixao Melo](https://github.com/jessmelo)
 - Leonardo Sato de Souza
 - Mateus Santos Saldanha
 - Paula Scaravatti
-- Vanessa Alves do Nascimento
+- [Vanessa Alves do Nascimento](https://github.com/vanessa-nascimento)
 
 ## 🚀 Sobre o que é a pesquisa?
 Inserir resumo
