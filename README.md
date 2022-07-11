@@ -40,7 +40,7 @@ Com base na nossa pesquisa, utilizando os 28 critérios do [nosso template](http
 
 ### 🧐 Quais são as regiões brasileiras mais transparentes?
 
-A região Nordeste pode ser qualificada como “mais transparente”, visto que suas capitais possuem a maior quantidade de indicadores fornecidos em seus respectivos Portais de Transparência.
+As regiões nordeste, norte e sudeste podem ser qualificadas como “mais transparentes”, visto que suas capitais possuem a maior quantidade de indicadores fornecidos em seus respectivos Portais de Transparência.
 
 ![Total de indicadores por região](https://github.com/balmeida486/Governo_Aberto/blob/3b3c33c370d65c4c145a34d451f5182a292eed79/Gr%C3%A1ficos%20das%20an%C3%A1lises%20obtidas/Total%20de%20indicadores%20por%20regi%C3%A3o.svg)
 
