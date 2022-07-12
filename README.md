@@ -56,10 +56,6 @@ Foi observado que alguns portais disponibilizam em áreas específicas do site o
 
 São 10 capitais brasileiras, sendo elas Rio de Janeiro, Belo Horizonte, Salvador, Vitória, Cuiabá, João Pessoa, Curitiba, Recife, Porto Alegre e São Paulo que possuem um inventário de dados abertos seguindo a Lei nº 12.527/11, art. 8º, §3º, incisos II e III, onde recomenda-se que o ente federado divulgue uma listagem, inventário ou catálogo dos conjuntos de bases de dados abertos em seu sítio oficial. Nesse caso foi verificado além da existência do catálogo dos datasets, a base de dados da descritiva de despesas públicas atualizadas para uso em sistemas informatizados.
 
-### 🧐 Dentro das capitais que possuem o catálogo de dados abertos, quais são os metadados dos dados de execução orçamentária/despesa? São parecidos?
-
-Nenhum município segue a mesma nomenclatura, mas possui muitos elementos semelhantes na descritiva de um gasto. Nesse quesito, Curitiba possui uma nomenclatura bem semelhante com a de São Paulo, mas seus dados estão disponíveis apenas para o ano atual; Rio de Janeiro passou por uma recente reformulação gráfica e de conteúdo dos dados em 2017 com apoio do Instituto Pereira Passos (IPP), possuindo uma base de dados aberta e organizada, contendo desde o ano de 2008, além de que a quantidade de metadados (17) se aproxima da quantidade de São Paulo (20).
-
 ### 🧐 Quais são os links para conseguir acessar o inventário de dados dos portais de transparência das capitais que os disponibilizam?
 
 - Belo Horizonte: [https://dados.pbh.gov.br/dataset](https://dados.pbh.gov.br/dataset)
@@ -73,6 +69,9 @@ Nenhum município segue a mesma nomenclatura, mas possui muitos elementos semelh
 - São Paulo: [http://dados.prefeitura.sp.gov.br/](http://dados.prefeitura.sp.gov.br/)
 - Vitória: [https://transparencia.vitoria.es.gov.br/DadosAbertos.Lista.aspx](https://transparencia.vitoria.es.gov.br/DadosAbertos.Lista.aspx)
 
+### 🧐 Dentro das capitais que possuem o catálogo de dados abertos, quais são os metadados dos dados de execução orçamentária/despesa? São parecidos?
+
+Nenhum município segue a mesma nomenclatura, mas possui muitos elementos semelhantes na descritiva de um gasto. Nesse quesito, Curitiba possui uma nomenclatura bem semelhante com a de São Paulo, mas seus dados estão disponíveis apenas para o ano atual; Rio de Janeiro passou por uma recente reformulação gráfica e de conteúdo dos dados em 2017 com apoio do Instituto Pereira Passos (IPP), possuindo uma base de dados aberta e organizada, contendo desde o ano de 2008, além de que a quantidade de metadados (17) se aproxima da quantidade de São Paulo (20). Para verificar os metadados dessas 10 capitais, confira no [link](https://github.com/balmeida486/grau-padronizacao-orcamento-publico-governo-aberto/blob/main/metadados_capitais.csv)
 
 ### 🧐 Qual a porcentagem de capitais  que possuem seu portal de transparência com registro no Contas Públicas (TCU)?
 
