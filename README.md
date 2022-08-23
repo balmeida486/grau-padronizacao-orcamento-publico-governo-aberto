@@ -13,7 +13,8 @@ Este repositório é referente à uma pesquisa e artigo realizada para a matéri
 - [Vanessa Alves do Nascimento](https://github.com/vanessa-nascimento)
 
 ## 🚀 Sobre o que é a pesquisa?
-Inserir resumo
+
+O objetivo do artigo é analisar as plataformas de transparência das capitais brasileiras municipais com o intuito de verificar o grau de conformidade legal dos dados orçamentários desses portais, verificando se os dados obrigatórios e recomendados dispostos em legislação  estão disponíveis. Para a análise, foi elaborado template de conformidade, verificando dados técnicos do site, itens de detalhamento de despesas e receitas, procedimentos licitatórios e informações financeiras publicadas, como Plano Plurianual, Lei de Diretrizes Orçamentárias, Balanços entre outros. Por fim, conforme análise desenvolvida, observou-se que a conformidade legal seguida pelos municípios para disponibilização de dados orçamentários é baixa, comprometendo o acesso da população às informações previstas em lei. 
 
 ## 🤓 Qual foi nossa metodologia?
 
