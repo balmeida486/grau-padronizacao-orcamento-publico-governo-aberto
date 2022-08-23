@@ -1,5 +1,5 @@
 
-# Análise do grau de padronização dos dados de execução orçamentária nos portais de transparência municipais
+# Análise do grau de conformidade legal dos dados de execução orçamentária nos portais de transparência municipais
 
 Este repositório é referente à uma pesquisa e artigo realizada para a matéria de Governo Aberto - ACH3778 em 2022, uma optativa do curso de graduação em Sistemas de Informação e Gestão de Políticas Públicas da Escola de Artes, Ciências e Humanidades da Universidade de São Paulo. 
 
